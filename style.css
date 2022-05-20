@@ -1,0 +1,19 @@
+.mult3 {
+    background: blue;
+    border-radius: 30%;
+    color: white;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.mult5 {
+    background: green;
+    border-radius: 30%;
+    color: white;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+}
